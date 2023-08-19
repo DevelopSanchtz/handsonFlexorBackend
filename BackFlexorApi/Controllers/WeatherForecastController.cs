@@ -6,7 +6,7 @@ namespace BackFlexorApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class VentaController : ControllerBase
+    public class WeatherForecastController : ControllerBase
     {
         [HttpPost("Calcular")]
         public ActionResult<CalculationResponse> Calcular(List<Product> productos)
