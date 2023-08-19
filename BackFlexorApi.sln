@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackFlexorApi", "BackFlexorApi\BackFlexorApi.csproj", "{0052B17C-C749-45F4-950D-32145901C9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0052B17C-C749-45F4-950D-32145901C9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0052B17C-C749-45F4-950D-32145901C9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0052B17C-C749-45F4-950D-32145901C9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0052B17C-C749-45F4-950D-32145901C9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E947EA35-9852-4845-BBE6-27EC7CEA6533}
+	EndGlobalSection
+EndGlobal
